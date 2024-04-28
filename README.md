@@ -12,7 +12,7 @@
  
 🌱 I’m currently mastering **Flutter**
 
-💼 Any freelance work? Do reach, <a href="mailto:muhammedsuhaid3@gmail.com">email</a> :)
+<!--💼 Any freelance work? Do reach, <a href="mailto:muhammedsuhaid3@gmail.com">email</a> :)-->
 
 💬 Ask me about anything, I am happy to help;
 
