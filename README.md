@@ -8,9 +8,9 @@
 
 
  
-<!--🔭 I’m currently working on **a marketplace**-->
+🌱 Planning to do masters in computer application
  
-🌱 I’m currently mastering **Flutter**
+🔭 I’m currently mastering **Flutter**...
 
 <!--💼 Any freelance work? Do reach, <a href="mailto:muhammedsuhaid3@gmail.com">email</a> :)-->
 
