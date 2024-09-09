@@ -8,7 +8,7 @@
 
 
  
-🌱 Planning to do masters in computer application
+🌱 I’m currently pursuing a master’s degree in Computer Applications at FISAT
  
 🔭 I’m currently mastering **Flutter**...
 
