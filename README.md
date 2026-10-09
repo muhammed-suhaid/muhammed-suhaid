@@ -2,15 +2,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammed+Suhaid!;" />
 </h1>
 
-<h3>A passionate software developer from India</h3>
+<h3>Software Developer | Flutter & Dart | Exploring AI-Powered Applications</h3>
 
 <br/>
 
 
  
-🌱 I’m currently pursuing a master’s degree in Computer Applications at FISAT
- 
-🔭 I’m currently mastering **Flutter**...
+💻 Currently working as a Software Developer at Pomodore Software Solutions
+
+📱 Building production mobile applications using Flutter, Dart, BLoC, and REST APIs
+
+⚡ Working with SignalR for real-time chat and notifications
+
+🏗️ Experienced in feature-first architecture, API integration, debugging, and performance optimization
+
+🤖 Currently learning about LLMs through Hugging Face and exploring how to build AI-powered applications with Flutter
+
+🎯 My long-term goal is to become a Full-Stack AI Developer
 
 <!--💼 Any freelance work? Do reach, <a href="mailto:muhammedsuhaid3@gmail.com">email</a> :)-->
 
